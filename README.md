@@ -2,7 +2,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18435644&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-
+Repositories (Repos): These are storage spaces where your project's files and their version history are stored.
+Commits: These are snapshots of your project at specific points in time. Each commit represents a set of changes made to the files.
+Branches: These are parallel versions of your project, allowing you to work on different features or fixes simultaneously without affecting the main project.
+Merging: This is the process of combining changes from different branches into one, ensuring all features and fixes are integrated.
+Pull Requests: These are requests to merge changes from one branch to another, often used in collaborative projects to review code before merging.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
